@@ -11,7 +11,7 @@ const Navebar = () => {
     data-aos-duration="1000"
     >
       <div className="flex  items-center ">
-      <div className="text-5xl  font-bold border-b-2 border-[#f6cd19] p-2 ">M.Z</div>
+      <div className="text-5xl  font-bold border-b-2 border-[#f6cd19] p-2 ">Muqadas Zafran</div>
       <div className=" md:hidden menu absolute flex top-5 right-5 items-center  flex-col justify-between w-9 h-8 "  >
        
         <div className=" menu text-5xl   " onClick={()=> setMenuOpen(!menuOpen)}>
